@@ -9,6 +9,7 @@ class App extends Component {
       <div className="App">
         <NavBar /> {/* this is the navigation */}
         <menuDrawer /> {/* this is the drawer */}
+        {/* */}
         {/* develop a main Form */}
         {/* develop footer */}
         {/* develop a delivery Form */}
